@@ -1,2 +1,4 @@
-var nombre;
-nombre = 'Andres';
+var nombre
+nombre = 'Andres'
+
+console.log('Hola ' + nombre)
