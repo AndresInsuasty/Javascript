@@ -22,4 +22,3 @@ obtenerPersonaje(1, function () {
         })
     })
 })
-
